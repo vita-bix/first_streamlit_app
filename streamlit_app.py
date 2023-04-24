@@ -7,4 +7,4 @@ streamlit.text('🥗 Special English Breakfast                     🥣 Omega 3 
 streamlit.text('🐔 Made with Love Eggs Benedict                  🥗 Kale,Spinach & Rocket Smoothie')
 streamlit.text('🥑 Health Freak Bowl                             🐔 Hard-Boiled Free-Range Egg')
 
-
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
